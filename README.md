@@ -28,7 +28,7 @@ brief idea about the game.
 ## Steps to run
 1.Pull down the code locally.                
 2.Open Downloaded file.                                        
-3.Unzip th downloaded file.                                            
+3.Unzip the downloaded file.                                            
 4.Inside locate "snake.html" file.                                                        
 5.Run the file on browser.                                          
 
